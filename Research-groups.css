@@ -1,0 +1,38 @@
+ .u-section-1 {
+  background-image: url("images/PHOTO-2019-03-04-14-42-37.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 662px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 546px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 418px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 314px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 198px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-bottom: 60px;
+  font-weight: 700;
+}
